@@ -9,4 +9,7 @@ body{
 #nameSabor{
     color: black;
     font-family: cursive;
+    padding: 2rem;
+    background-color: grey;
+    border-radius: 10px;
 }
